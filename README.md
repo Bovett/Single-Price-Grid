@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Bovett/Single-Price-Grid](https://github.com/Bovett/Single-Price-Grid)
-- Live Site URL:[https://bovett.github.io/Single-Price-Grid/](https://bovett.github.io/Single-Price-Grid/)
+- Live Site URL: [https://bovett.github.io/Single-Price-Grid/](https://bovett.github.io/Single-Price-Grid/)
 
 ## My process
 
